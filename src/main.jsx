@@ -1015,7 +1015,6 @@ function App() {
       <header>
 
         <div className="logo">
-          J.A.R.V.I.S. //
           QUIZ CORE
         </div>
 
